@@ -1,4 +1,5 @@
-# plugins
+# java-property-file-and-log4j-logging-examples
+
 <h3>Pluggable java web application plugins for .properties file reading</h3>
 <h4>project 1: Reading Properties file</h4>
 <p>Instead of having server configurable properties in .java file as a Constants.java But it is not advised to store the server configurations such as DB username, DB password, DB IP address, other service URL, FTP username, FTP password, and Current Version of build in .java file.
